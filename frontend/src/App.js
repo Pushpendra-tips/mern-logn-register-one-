@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Ujjwal Technical Tips(ONE)
+         Ujjwal Technical Tips-(ONE)
         </a>
       </header>
     </div>
